@@ -1,53 +1,103 @@
 {
+  "defaultWiki": "lhmn",
   "allowWikiManagement": false,
-  "defaultWiki": "lophocmatngu.wiki",
   "wikis": {
-    "lophocmatngu.wiki": {
+    "lhmn": {
       "sitename": "Wiki Lớp Học Mật Ngữ",
       "server": "https://lophocmatngu.wiki",
-      "articlepath": "/",
+      "articlepath": "/wiki",
       "scriptpath": "/w",
-      "private": false,
       "readOnly": true
     },
-    "cg.songngu.xyz": {
-      "sitename": "Custom Gameshows Wiki",
-      "server": "https://cg.songngu.xyz",
-      "articlepath": "/",
-      "scriptpath": "/w",
-      "private": false,
-      "readOnly": true
-    },
-    "100bangai.songngu.xyz": {
-      "sitename": "Wiki 100 Bạn Gái tiếng Việt",
-      "server": "https://100bangai.songngu.xyz",
-      "articlepath": "/",
-      "scriptpath": "/w",
-      "private": false,
-      "readOnly": true
-    },
-    "hsck.lophocmatngu.wiki": {
+    "hsck": {
       "sitename": "Wiki Học Sinh Chân Kinh",
       "server": "https://hsck.lophocmatngu.wiki",
-      "articlepath": "/",
+      "articlepath": "/wiki",
       "scriptpath": "/w",
-      "private": false,
       "readOnly": true
     },
-    "cookierun.wiki": {
+    "hyakkano_vi": {
+      "sitename": "Wiki 100 Bạn Gái tiếng Việt",
+      "server": "https://100bangai.songngu.xyz",
+      "articlepath": "/wiki",
+      "scriptpath": "/w",
+      "readOnly": true
+    },
+    "hyakkano_en": {
+      "sitename": "100 Kanojo Fanwiki",
+      "server": "https://100kanojo.miraheze.org",
+      "articlepath": "/wiki",
+      "scriptpath": "/w",
+      "readOnly": true
+    },
+    "cg": {
+      "sitename": "Custom Gameshows Wiki",
+      "server": "https://cg.songngu.xyz",
+      "articlepath": "/wiki",
+      "scriptpath": "/w",
+      "readOnly": true
+    },
+    "crw": {
       "sitename": "Cookie Run Wiki",
       "server": "https://cookierun.wiki",
       "articlepath": "/w",
       "scriptpath": "/mw",
-      "private": false,
       "readOnly": true
     },
-    "vi.cookierun.wiki": {
-      "sitename": "Cookie Run Wiki tiếng Việt",
+    "crwvi": {
+      "sitename": "Wiki Cookie Run tiếng Việt",
       "server": "https://vi.cookierun.wiki",
       "articlepath": "/w",
       "scriptpath": "/mw",
-      "private": false,
+      "readOnly": true
+    },
+    "viwiki": {
+      "sitename": "Wikipedia tiếng Việt",
+      "server": "https://vi.wikipedia.org",
+      "articlepath": "/wiki",
+      "scriptpath": "/w",
+      "readOnly": true
+    },
+    "enwiki": {
+      "sitename": "English Wikipedia",
+      "server": "https://en.wikipedia.org",
+      "articlepath": "/wiki",
+      "scriptpath": "/w",
+      "readOnly": true
+    },
+    "viwiktionary": {
+      "sitename": "Wiktionary tiếng Việt",
+      "server": "https://vi.wiktionary.org",
+      "articlepath": "/wiki",
+      "scriptpath": "/w",
+      "readOnly": true
+    },
+    "commonswiki": {
+      "sitename": "Wikimedia Commons",
+      "server": "https://commons.wikimedia.org",
+      "articlepath": "/wiki",
+      "scriptpath": "/w",
+      "readOnly": true
+    },
+    "wikidatawiki": {
+      "sitename": "Wikidata",
+      "server": "https://www.wikidata.org",
+      "articlepath": "/wiki",
+      "scriptpath": "/w",
+      "readOnly": true
+    },
+    "metawiki": {
+      "sitename": "Meta-Wiki",
+      "server": "https://meta.wikimedia.org",
+      "articlepath": "/wiki",
+      "scriptpath": "/w",
+      "readOnly": true
+    },
+    "mediawikiwiki": {
+      "sitename": "MediaWiki.org",
+      "server": "https://www.mediawiki.org",
+      "articlepath": "/wiki",
+      "scriptpath": "/w",
       "readOnly": true
     }
   }
