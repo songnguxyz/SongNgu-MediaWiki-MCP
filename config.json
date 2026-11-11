@@ -1,0 +1,54 @@
+{
+  "allowWikiManagement": false,
+  "defaultWiki": "lophocmatngu.wiki",
+  "wikis": {
+    "lophocmatngu.wiki": {
+      "sitename": "Wiki Lớp Học Mật Ngữ",
+      "server": "https://lophocmatngu.wiki",
+      "articlepath": "/",
+      "scriptpath": "/w",
+      "private": false,
+      "readOnly": true
+    },
+    "cg.songngu.xyz": {
+      "sitename": "Custom Gameshows Wiki",
+      "server": "https://cg.songngu.xyz",
+      "articlepath": "/",
+      "scriptpath": "/w",
+      "private": false,
+      "readOnly": true
+    },
+    "100bangai.songngu.xyz": {
+      "sitename": "Wiki 100 Bạn Gái tiếng Việt",
+      "server": "https://100bangai.songngu.xyz",
+      "articlepath": "/",
+      "scriptpath": "/w",
+      "private": false,
+      "readOnly": true
+    },
+    "hsck.lophocmatngu.wiki": {
+      "sitename": "Wiki Học Sinh Chân Kinh",
+      "server": "https://hsck.lophocmatngu.wiki",
+      "articlepath": "/",
+      "scriptpath": "/w",
+      "private": false,
+      "readOnly": true
+    },
+    "cookierun.wiki": {
+      "sitename": "Cookie Run Wiki",
+      "server": "https://cookierun.wiki",
+      "articlepath": "/w",
+      "scriptpath": "/mw",
+      "private": false,
+      "readOnly": true
+    },
+    "vi.cookierun.wiki": {
+      "sitename": "Cookie Run Wiki tiếng Việt",
+      "server": "https://vi.cookierun.wiki",
+      "articlepath": "/w",
+      "scriptpath": "/mw",
+      "private": false,
+      "readOnly": true
+    }
+  }
+}
